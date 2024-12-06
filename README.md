@@ -1,3 +1,5 @@
+![Screenshot 2024-12-05 141229](https://github.com/user-attachments/assets/e68861ae-b214-44a4-89e6-fbc311461b05)
+
 # Mint-Classics
 ## Model Company
 
