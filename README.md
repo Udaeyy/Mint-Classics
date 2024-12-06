@@ -43,7 +43,14 @@ Solution : The project involved creating SQL queries to analyze key business asp
 
 Approach : The approach started with understanding the business requirements, focusing on inventory management, sales, and customer profiling. SQL queries were designed to extract data from multiple tables using joins to aggregate and summarize information. Key techniques included GROUP BY for aggregation, LEFT JOINs to include all relevant data, and subqueries for complex calculations. The goal was to create flexible, reusable queries that provided in-depth insights into business operations, aiding decision-making.
 
+Description: Developed a comprehensive set of SQL queries to analyze and manage key business data, including product inventory, order details, customer profiles, and employee performance. The project focuses on deriving actionable insights from complex datasets related to warehouses, products, orders, payments, and employees. Key features of the project include:
 
+Inventory Analysis: Analyzing total stock by warehouse, product line, and product.
+Sales and Revenue Analysis: Calculating total orders and revenue for each product, product line, and warehouse.
+Customer Insights: Profiling customers based on their order history and payments, along with their credit limits.
+Employee Performance: Evaluating employee sales performance based on customer orders and payments.
+Warehouse and Product Line Management: Providing insights into warehouse stock and revenue by product line, including the comparative analysis of stock and orders.
+The queries used in this project leverage advanced SQL techniques such as joins, aggregation functions, subqueries, and data grouping to provide meaningful business insights and facilitate decision-making processes.
 
 
 
